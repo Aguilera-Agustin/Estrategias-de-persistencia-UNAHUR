@@ -1,0 +1,19 @@
+{
+  "name": "persistencia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "punto1": "node punto_1.js",
+    "punto2": "node punto_2.js",
+    "punto3": "node punto_3.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^6.19.0",
+    "sqlite3": "^5.0.5"
+  }
+}
